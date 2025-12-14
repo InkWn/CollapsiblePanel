@@ -1,0 +1,31 @@
+{
+    "windows": {
+        "theme": "dark",
+        "placement": "center",
+        "aniSpeed": 200,
+        "isTop": true,
+        "isLocked": false,
+        "alwaysOnEdge": false,
+        "collapseOnOpen": true,
+        "identifyGroups": [
+            ".exe",
+            ".bat"
+        ]
+    },
+    "normal": {
+        "winSize": [
+            540,
+            240
+        ],
+        "titleIconSize": 21,
+        "appIconSize": 25,
+        "opacity": 0.85
+    },
+    "collapsible": {
+        "winSize": [
+            240,
+            4
+        ],
+        "opacity": 0.9
+    }
+}
